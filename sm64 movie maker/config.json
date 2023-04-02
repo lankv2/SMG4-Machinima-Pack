@@ -1,0 +1,15 @@
+{
+  "core": {
+    "settings": {
+      "enableHotkeys": true,
+      "enableUpdateCheck": true,
+      "enableStartupPowercam": false,
+      "turboTicks": false,
+      "preferredReleases": [
+        "release",
+        "beta"
+      ],
+      "preferredDefaultCamStyle": 1
+    }
+  }
+}
